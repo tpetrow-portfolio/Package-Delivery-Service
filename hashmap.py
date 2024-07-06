@@ -1,8 +1,5 @@
 # Create hashmap class with needed attributes and functions for assignment
 
-#Source: Python: Creating a HASHMAP using Lists video by Oggi AI - Artificial Intelligence Today
-#Acquired from C950 Course Resources and Zybooks
-
 class Hashmap:
     # initialize starting array and empty each position
     def __init__(self):

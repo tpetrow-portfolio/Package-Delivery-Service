@@ -3,10 +3,6 @@
 # WGU C950 - Data Structures and Algorithms II
 # NHP3 TASK 2: WGUPS ROUTING PROGRAM IMPLEMENTATION
 
-#Source for layout and ideas for main: C950 WGUPS Project Implementation Steps - Example - Nearest Neighbor
-#Article Link: https://srm--c.vf.force.com/apex/coursearticle?Id=kA03x000001DbBGCA0
-#Acquired from C950 Course Resources
-
 import csv
 import datetime
 
@@ -125,7 +121,7 @@ truck3.departureTime = min(truck1.time, truck2.time)
 delivering(truck3)
 
 
-# main UI of program
+# main UI (menu) of program
 class Main:
     # "menu" screen gives user 3 options to view
     print("Welcome to WGUPS Delivery Service Program")
