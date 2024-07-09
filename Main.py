@@ -123,7 +123,7 @@ delivering(truck3)
 
 # main UI (menu) of program
 class Main:
-    # "menu" screen gives user 3 options to view
+    # "menu" screen gives user 5 options to view
     print("Welcome to WGUPS Delivery Service Program")
     print("*****************************************")
     print("")
